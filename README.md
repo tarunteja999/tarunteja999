@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Tarun Teja 👋
 
-<!--
-**tarunteja999/tarunteja999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full‑Stack Developer** — React/Next.js · Node.js/Spring Boot · PostgreSQL/MongoDB · AWS · Docker/Kubernetes
 
-Here are some ideas to get you started:
+- I design and ship scalable, secure applications end‑to‑end (architecture → build → test → deploy → observe).
+- Interested in distributed systems, event‑driven design, and DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Portfolio** — Next.js, Tailwind, deployed on Vercel → _link soon_
+- **SaaS Starter API** — Express + JWT, Docker, CI → _link soon_
+
+## Contact
+- 📫 Email: [akkipallitarunteja@gmail.com](mailto:akkipallitarunteja@gmail.com)
+- 🔗 LinkedIn: [tarun-teja](https://www.linkedin.com/in/tarun-teja-a-a84505215/)
+
+_Last updated: 2025-09-09_
